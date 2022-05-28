@@ -1,5 +1,9 @@
 # Detecting Twenty-thousand Classes using Image-level Supervision
 
+- tested since Colab demo failed to run (220528)
+
+---
+
 **Detic**: A **Det**ector with **i**mage **c**lasses that can use image-level labels to easily train detectors.
 
 <p align="center"> <img src='docs/teaser.jpeg' align="center" height="300px"> </p>
