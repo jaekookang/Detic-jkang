@@ -60,3 +60,7 @@ _darcs
 /projects/*/datasets
 /models
 /snippet
+
+datasets/.ipynb_checkpoints/
+cached/
+*.log
